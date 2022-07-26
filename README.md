@@ -6,6 +6,10 @@ This repository is for showing how Git and GitHub work
 
 toma otra linea crack
 
+paco2
+
+otra mas
+
 Paco
 
 ## Purpose
